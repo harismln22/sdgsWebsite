@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dashboard-app
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# sdgsWebsite
+>>>>>>> f796f01b78f9f9bde8a6fc5478408da084c74fba
