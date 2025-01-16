@@ -1,6 +1,3 @@
-# Projek bertema Sdgs climate change
-Projek ini dilakukan oleh tim dengan 5 orang
-
 # dashboard-app
 
 ## Project setup
